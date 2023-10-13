@@ -17,3 +17,9 @@
 #### 1. Nonce: A nonce is a number that ensures each transaction is unique. It is used to order and track transactions from a specific account. To prevent replay attacks, the nonce must be different for transactions on different networks.
 
 #### 2. Chain ID: Chain ID is a unique identifier for a specific blockchain network. It helps differentiate one blockchain from another. To prevent replay attacks, the Chain ID must be specified in the transaction data to ensure that the transaction is intended for the correct blockchain.
+
+## 4] In a contract, how do we know who called a view function ?
+
+#### => View functions do not have access to information about the caller's address (i.e., the Ethereum account that called the function) within the contract itself. However, you can easily obtain the caller's address from outside the contract when you make the function call. If you need to determine who called a view function or access information about the caller, you would typically need to pass the caller's address as an argument to the function when you call it. This way, the contract can then use that address as needed.
+
+
