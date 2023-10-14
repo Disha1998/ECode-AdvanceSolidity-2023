@@ -70,5 +70,7 @@ After that sol2uml will generate a UML diagram in SVG format by default.
 
    ![Screenshot 2023-10-14 at 10 30 17 PM](https://github.com/Disha1998/ECode-AdvanceSolidity-2023/assets/69969675/ad638459-a152-4aa9-9d38-6cc921276338)
 
-–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+### Foundry Introduction
 
