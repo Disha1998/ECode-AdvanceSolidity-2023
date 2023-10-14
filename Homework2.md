@@ -1,8 +1,9 @@
 
 ### Solidity
 ### 1. Write a function that will delete items (one at a time) from a dynamic array without leaving gaps in the array. You should assume that the items to be deleted are chosen at random, and try to do this in a gas efficient manner. For example imagine your array has 12 items and you need to delete the items at indexes 8, 2 and 7. The final array will then have items {0,1,3,4,5,6,9,10,11}
+ 
 
-#### =>   ```
+```
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
@@ -44,8 +45,11 @@ contract DynamicArray {
   
 }
 
-
 ```
 
-//you can delete element by mannually e.g: 0th index
-//you can delete random elements by calling this 'deleteRandomItems' function where delete like [0,2,4] index elements will be removed from array
+
+
+
+##### //you can delete element by mannually e.g: 0th index
+
+##### //you can delete random elements by calling this 'deleteRandomItems' function where delete like [0,2,4] index elements will be removed from array
