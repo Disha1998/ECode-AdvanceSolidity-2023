@@ -83,3 +83,15 @@ npm i foundry
 #### https://www.npmjs.com/package/foundry
 
 First run the command below to get foundryup , the Foundry toolchain installer: curl -L https://foundry.paradigm.xyz | bash If you do not want to use the redirect, feel free to manually download the foundryup installation script from here. Then, run foundryup in a new terminal session or after reloading your PATH . Other ways to use foundryup , and other documentation, can be found here https://github.com/foundry-rs/foundry/tree/master/foundryup.
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+
+
+### Try out the Solidity Template or the Foundry Template
+
+
+![Screenshot 2023-10-14 at 11 19 45 PM](https://github.com/Disha1998/ECode-AdvanceSolidity-2023/assets/69969675/b4b67d66-6928-4782-963c-0c9f3bb66cb0)
+
+
+
