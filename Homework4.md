@@ -8,12 +8,15 @@
 **Steps for how you can use sol2uml to create a class diagram for your contract:**
 
 1)Install
+
 ```
 npm install -g sol2uml
 ```
 
 2) Save your contract code to a .sol file. In your device/folder,
-   ```
+
+
+```
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.13;
 
@@ -60,9 +63,12 @@ contract Store {
 
 ```
 sol2uml  Store.sol
-
 ```
 
-After that sol2uml will generate a UML diagram in SVG format by default. ex: file:///Users/jaydippatel/classDiagram.svg
+After that sol2uml will generate a UML diagram in SVG format by default. 
+### ex: file:///Users/jaydippatel/classDiagram.svg
 
-   
+   ![Screenshot 2023-10-14 at 10 30 17 PM](https://github.com/Disha1998/ECode-AdvanceSolidity-2023/assets/69969675/ad638459-a152-4aa9-9d38-6cc921276338)
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
