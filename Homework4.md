@@ -94,4 +94,30 @@ First run the command below to get foundryup , the Foundry toolchain installer: 
 ![Screenshot 2023-10-14 at 11 19 45 PM](https://github.com/Disha1998/ECode-AdvanceSolidity-2023/assets/69969675/b4b67d66-6928-4782-963c-0c9f3bb66cb0)
 
 
+```
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.9;
+
+contract MyCon{
+    function a(
+    function(
+        function(
+            function(
+                function(
+                    function() external pure
+                )external pure
+            )external pure
+        )external pure
+    ) external pure
+ )external pure {}
+}
+```
+
+**The provided code is technically valid in terms of Solidity's syntax, so it won't cause a compilation error. However, it's not written in a way that's easy to understand or practical for real-world use.**
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+**Try out the Solidity Template or the Foundry Template**
+
+**=> Tried Out Hardhat template and Foundry**
 
