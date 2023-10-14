@@ -48,3 +48,7 @@ contract MemoryAndTransactionExample {
 ```
 
 **// Remix may not provide a transaction hash because pure functions do not create transactions on the Ethereum blockchain. so used receive() external payable to get transaction hash**
+
+
+
+![Screenshot 2023-10-14 at 7 27 20 PM](https://github.com/Disha1998/ECode-AdvanceSolidity-2023/assets/69969675/215473af-831d-4f54-8a9b-d650fca1b43c)
