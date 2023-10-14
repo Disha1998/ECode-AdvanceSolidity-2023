@@ -74,3 +74,12 @@ After that sol2uml will generate a UML diagram in SVG format by default.
 
 ### Foundry Introduction
 
+**install** 
+
+```
+npm i foundry
+```
+
+#### https://www.npmjs.com/package/foundry
+
+First run the command below to get foundryup , the Foundry toolchain installer: curl -L https://foundry.paradigm.xyz | bash If you do not want to use the redirect, feel free to manually download the foundryup installation script from here. Then, run foundryup in a new terminal session or after reloading your PATH . Other ways to use foundryup , and other documentation, can be found here https://github.com/foundry-rs/foundry/tree/master/foundryup.
